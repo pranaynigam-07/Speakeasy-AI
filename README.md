@@ -1,4 +1,4 @@
-# SpeakEasy: Multi-Functional TTS and Blog-to-Audio App
+# SpeakEasyAI: Multi-Functional TTS App
 
 SpeakEasy is a versatile, user-friendly application designed to empower mute individuals and assist anyone with text-to-speech (TTS), blog-to-audio, and translation functionalities. Built using Python and popular libraries like Tkinter, gTTS, and Google Translate API, SpeakEasy provides accessibility and convenience in communication.
 
