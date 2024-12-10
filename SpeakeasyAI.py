@@ -29,8 +29,6 @@ class SpeakEasyApp:
             "French": "fr",
             "Spanish": "es",
             "German": "de",
-            "Hindi": "hi",
-            "Japanese (Romanized)": "ja",
             "Italian": "it",
             "Portuguese": "pt",
             "Russian (Romanized)": "ru"
